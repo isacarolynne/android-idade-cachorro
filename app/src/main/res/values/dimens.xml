@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_texto_pergunta">28dp</dimen>
+    <dimen name="tamanho_texto_resposta">28dp</dimen>
+</resources>
